@@ -1,0 +1,222 @@
+---
+cards:
+  - name: quiz_1
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_2
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_3
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_4
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_5
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_6
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_7
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_8
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_9
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_10
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_11
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_12
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_13
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_14
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_15
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_16
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_17
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_18
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_19
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.
+  - name: quiz_20
+    type: quiz
+    front: legionarek/assets/images/quiz_card_front1.png
+    back: legionarek/assets/images/quiz_card_back1.png
+    message:
+    question_a: Kolik procent hlasů získali bolševici ve volbách do Ústavidárného shromáždění v roce 1971 ?
+    question_b: Jako co původně vznikl tzv. proletářský pantheon na Vítkově, kde byli pohřbíváni čelní představitelé KSČ ?
+    question_c: Co je to sumka ?
+    answer_a: 24 %
+    answer_b: Jako památník legionářů.
+    answer_c: Zavěšovací pouzdro na náboje.

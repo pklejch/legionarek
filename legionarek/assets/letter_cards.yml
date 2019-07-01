@@ -1,0 +1,52 @@
+---
+cards:
+  - name: letter_1
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_2
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_3
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_4
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_5
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_6
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_7
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_8
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_9
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER
+  - name: letter_10
+    type: letter
+    front: legionarek/assets/images/letter_card_front1.png
+    back: legionarek/assets/images/letter_card_back1.png
+    message: PLACEHOLDER

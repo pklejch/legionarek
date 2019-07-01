@@ -1,0 +1,362 @@
+---
+cards:
+  - name: task_1
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_2
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_3
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_4
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_5
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_6
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_7
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_8
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_9
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_10
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_11
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_12
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_13
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_14
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_15
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_16
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_17
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_18
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_19
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_20
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_21
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_22
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_23
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_24
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_25
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_26
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_27
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_28
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_29
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_30
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_1
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_2
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_3
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_4
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_5
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_6
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_7
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_8
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_9
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_10
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_11
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_12
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_13
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_14
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_15
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_16
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_17
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_18
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_19
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_20
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_21
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_22
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_23
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_24
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_25
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_26
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_27
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_28
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_29
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.
+  - name: task_30
+    type: task
+    front: legionarek/assets/images/task_card_front1.png
+    back: legionarek/assets/images/task_card_back1.png
+    message: Řeka Samarka byla dnes v noci divoká. Několik člunů s legionáři, kteří chystali výpad na protější břeh, se převrhlo a muži se teď topí.
+    task: Vypij půllitr vody.

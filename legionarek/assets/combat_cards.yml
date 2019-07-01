@@ -2,181 +2,181 @@
 cards:
   - name: combat_1
     type: combat
-    front: images/combat_card_front1.png
-    back: images/combat_card_back1.png
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Čeljabinsk 2
     power: 2
   - name: combat_2
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Krasnojarsk 2
     power: 2
   - name: combat_3
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Novonikolajevsk 3
     power: 3
   - name: combat_4
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Irkutsk 3
     power: 3
   - name: combat_5
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Zlatoust 9
     power: 9
   - name: combat_6
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Penza 3
     power: 3
   - name: combat_7
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Nižněudinsk 4
     power: 4
   - name: combat_8
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Kansk 4
     power: 4
   - name: combat_9
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Syzraň 4
     power: 4
   - name: combat_10
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Stanice Tajga 5
     power: 5
   - name: combat_11
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Petropavlovsk 5
     power: 5
   - name: combat_12
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Tomsk 5
     power: 5
   - name: combat_13
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Alexandrovský most přes Volhu 9
     power: 9
   - name: combat_14
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Mariinsk 5
     power: 5
   - name: combat_15
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Kurgan 5
     power: 5
   - name: combat_16
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Lipjagy 10
     power: 10
   - name: combat_17
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Bezenčuk 6
     power: 6
   - name: combat_18
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Marianovka 9
     power: 9
   - name: combat_19
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Omsk 6
     power: 6
   - name: combat_20
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Samara 10
     power: 10
   - name: combat_21
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Barabinsk 6
     power: 6
   - name: combat_22
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Kansk 7
     power: 7
   - name: combat_23
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Buguruslan 7
     power: 7
   - name: combat_24
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Krasnojarsk 7
     power: 7
   - name: combat_25
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Buzuluk 7
     power: 7
   - name: combat_26
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Nikolsk Usurijský 8
     power: 8
   - name: combat_27
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Simbirsk 8
     power: 8
   - name: combat_28
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Jekatěrinburg 8
     power: 8
   - name: combat_29
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Kazaň 11
     power: 11
   - name: combat_30
     type: combat
-    front: images/
-    back: images/
+    front: legionarek/assets/images/combat_card_front1.png
+    back: legionarek/assets/images/combat_card_back1.png
     message: Bajkalské jezero 9
     power: 9
