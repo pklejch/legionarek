@@ -42,13 +42,14 @@ class QuizCardConfig(CardConfig):
         self.answer_c = answer_c
 
 
-
 class Card(abc.ABC):
     def __init__(self, config):
         self.config = config
+        self.flipped = False
 
     def flip(self):
         self.config.visible_side = self.config.front_side
+        self.flipped = True
         #return self._is_successful()
 
     def display(self):
