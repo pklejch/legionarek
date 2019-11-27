@@ -106,4 +106,4 @@ venv.bak/
 # others
 .DS_store
 tags
-.vscode
+.vscode/

@@ -1,8 +1,9 @@
-from PyQt5.QtWidgets import QDialog, QGridLayout, QLabel
+from PyQt5.QtWidgets import QDialog, QGridLayout, QLabel, QDialog, QMessageBox
 from PyQt5.QtGui import QPixmap
 from PyQt5.QtCore import Qt
 from legionarek.constants import CANVAS_HEIGHT, CANVAS_WIDTH
 from tqdm import tqdm
+
 
 class CardsOnTable(QDialog):
     def __init__(self, parent=None):
@@ -70,5 +71,8 @@ class CardPopup(QLabel):
         self.destroy()
 
     def mousePressEvent(self, event):
-        self.parent.flip()
-        self._draw()
+        if not self.parent.card.flipped:
+            reply = QMessageBox.question(self, 'Do you want to flip a card ?', 'Do you want to flip a card ?', QMessageBox.Yes | QMessageBox.No, QMessageBox.No)
+            if reply == QMessageBox.Yes:
+                self.parent.flip()
+                self._draw()
